@@ -1,0 +1,42 @@
+_repo: Kovina-aikoinaKertomus-Suomen-viimeisten-n-lk-vuosien-ajoilta_44869
+_version: 0.1.0
+alternative_title: Hårda tider. Finnish
+contributor:
+  translator:
+    agent_name: Aho, Juhani
+    aliases:
+    - Brofeldt, Juhani
+    - Aho, Johani
+    birthdate: 1861
+    deathdate: 1921
+    gutenberg_agent_id: '1773'
+    url: http://www.gutenberg.org/2009/agents/1773
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Juhani_Aho
+    - http://fi.wikipedia.org/wiki/Juhani_Aho
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tavaststjerna, Karl August
+    alias: Tavaststjerna, Karl A. (Karl August)
+    birthdate: 1860
+    deathdate: 1898
+    gutenberg_agent_id: '7915'
+    url: http://www.gutenberg.org/2009/agents/7915
+    wikipedia: http://fi.wikipedia.org/wiki/K._A._Tavaststjerna
+description: ''
+gutenberg_issued: '2014-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44869'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finland -- Fiction'
+- !lcc 'PT'
+title: 'Kovina aikoina: Kertomus Suomen viimeisten nälkävuosien ajoilta'
+url: http://www.gutenberg.org/ebooks/44869
